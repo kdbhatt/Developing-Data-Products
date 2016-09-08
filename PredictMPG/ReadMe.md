@@ -1,7 +1,7 @@
 ---
 title: "ReadMe"
 author: "Krishan Bhatt"
-date: "August 24, 2016"
+date: "September 06, 2016"
 output: html_document
 ---
 # Shiny app Predict Mileage Per Gallon
@@ -43,7 +43,9 @@ This Shiny application displays a series of graphs illustrating various comparis
 
 Option 1: Direct link: click [here](https://kbhatt.shinyapps.io/PredictMPG/)
 
-Option 2: Download the `server.R` and `ui.R` files and place them in a directory named 'PredictMPG'. Open an R session and set the working directory to the folder that contains the directory 'PredictMPG'. Then run the following commands:
+Option 2: Download the `server.R` and `ui.R` files from [here](https://github.com/kdbhatt/Developing-Data-Products/tree/master/PredictMPG) and place them in a directory named 'PredictMPG'. Open an R session and set the working directory to the folder that contains the directory 'PredictMPG'. Then run the following commands:
+
+use setwd to make the current folder as a working folder.
 
 ```
 setwd("C:/Krishna/MyProject/DataScience/9_Developing_Data_Products/Developing-Data-Products")

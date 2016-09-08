@@ -22,13 +22,13 @@ Deployed App
 - A shiny-App shows the relationship between variables and miles per gallon (MPG).
 
 ### Reproducible Pitch Presentation  
-- URL: *http://rpubs.com/kbhatt/207171*
+- URL: *http://rpubs.com/kbhatt/207424*
 
 ### All SourceCode at Github:
 
-```
-https://github.com/kdbhatt/Developing-Data-Products/tree/master/PredictMPG
-```
+
+- URL: *https://github.com/kdbhatt/Developing-Data-Products/tree/master/PredictMPG*
+
 
 
 
